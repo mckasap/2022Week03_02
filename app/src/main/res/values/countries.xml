@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item name="USA">USA </item>
+        <item name="RUS">Rusia </item>
+        <item name="TR">TURKIYE </item>
+        <item name="GR">GREECE </item>
+    </string-array>
+
+
+</resources>
